@@ -1,3 +1,2 @@
-# GitHub asked me to add a ReadME
-dis is da readme file
-good bye
+# GIIS-SLC-CLASSLIST
+All student's names and SLC links.
